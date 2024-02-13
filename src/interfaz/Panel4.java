@@ -46,7 +46,7 @@ public class Panel4 extends javax.swing.JPanel {
     
      public void setDefault()
     {
-        combo.setSelectedIndex(1);
+        combo.setSelectedIndex(0);
      
     }
    /* public String getNom(){
